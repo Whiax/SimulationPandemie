@@ -19,7 +19,7 @@ Impact d'une immobilisation d'une certaine partie de la population
 
 
 ### Détails
-Les détails ainsi que d'autres résultats sont présentés en allant sur cet article Médium: https://hyugen-ai.medium.com/simulons-des-pandémies-dcb19f9922dd
+Les détails ainsi que d'autres résultats sont présentés en allant sur cet article Medium: https://hyugen-ai.medium.com/simulons-des-pandémies-dcb19f9922dd
 
 
 
