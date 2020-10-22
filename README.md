@@ -10,11 +10,11 @@ Evolution de l'épidémie sur 2 mois à partir de 1% de contaminés parmis une p
 
 ## Courbes de résultats
 ### Avec/Sans transferts de populations
-Impact d'une immobilisation d'une certaine proportion de la population
+Impact d'une limitation des transferts entre populations
 ![alt text](https://github.com/Whiax/SimulationPandemie/blob/main/transfert.png "-")
 
 ### Avec/Sans confinement
-Impact d'une immobilisation d'une certaine proportion de la population
+Impact d'une immobilisation d'une certaine partie de la population
 ![alt text](https://github.com/Whiax/SimulationPandemie/blob/main/confined.png "-")
 
 
