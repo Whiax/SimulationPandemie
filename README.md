@@ -1,5 +1,5 @@
 # SimulationPandemie
-Ce dépôt vise à proposer un code de simulation de pandémie avec un niveau de détail simplifié.
+Ce dépôt vise à proposer un code de simulation de pandémie avec un niveau de détail ultra-simplifié (non réaliste).
 Il permet d'anticiper l'impact d'une politique sanitaire sur un déroulé épidémique, aux hypothèses près de la simulation.
 Le code tient dans un seul fichier python commenté de 300 lignes.
 Le paramétrage a pour but de correspondre au paramétrage de SARS-CoV-2.
